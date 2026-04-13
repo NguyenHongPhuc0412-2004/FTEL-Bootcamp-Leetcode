@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0020-valid-parentheses/) | Easy |
+| [0383-ransom-note](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -38,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0383-ransom-note](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0389-find-the-difference/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -48,4 +50,8 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
