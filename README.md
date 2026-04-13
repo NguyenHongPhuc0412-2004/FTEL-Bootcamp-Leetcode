@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0088-merge-sorted-array/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Two Pointers
@@ -40,4 +41,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0389-find-the-difference/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/NguyenHongPhuc0412-2004/FTEL-Bootcamp/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
